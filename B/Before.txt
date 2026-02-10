@@ -1,0 +1,37 @@
+Before
+  author: Matt Currier
+  key: F
+
+  verse: 1-5  1-4  1-3  1-4
+  pre-chorus: 6 3 2 6
+  chorus: 1 5 6 4
+  bridge: 1 5 1 4
+          1 5 4 5 1
+
+Sections:
+  Verse 1:
+    ^cold and alone ^pulled in this room the ^travesty of all man^kind
+    ^stuck in my genes be^fore I could see be^fore I could make a ^way
+
+  Pre-Chorus:
+    ^left alone  I would ^surely die
+    for^ever   not just for a ^time
+
+  Chorus:
+    You ^sought me Your ^enemy 
+    You ^made a peace that would ^last
+
+    ^blathering I don't know ^what to say
+    I ^wish I could give You Your ^due
+  
+  Bridge:
+    be^fore I was lost
+    be^fore I was pieces
+    be^fore I was stuck in the ^mire
+    be^fore I was dead
+    be^fore I was wickedecho "options usbcore autosuspend=-1" | sudo tee /etc/modprobe.d/usb-autosuspend.conf options usbcore autosuspend=-1
+    be^fore...be^fore, be^fore I met You
+  
+  Verse 2:
+    ^hot and bothered  ^falling apart  the ^nebulous chill of her ^smile
+    ^loosed from my destiny ^all I could see was the ^broken, unwritten ^way
