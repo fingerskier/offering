@@ -1,0 +1,39 @@
+And I Cry
+  author: Matthew Currier
+	date: 2002
+  key: E
+
+  VERSE: 6 4
+  CHORUS: 1 5 6 4
+  BRIDGE: 6 4 1 5
+
+Sections:
+  VERSE 1:
+    ^Sunday morning comes a^gain
+    ^I leave my burdens at the ^door
+    ^But inside are all the ^more
+    I ^weep a^loud
+    A la^ment for ^me
+
+  CHORUS 1
+    I ^cry  bloody ^tears   I ^mourn  and ^wail
+    I ^cry  out to ^You   I ^pray  to You who ^saves
+
+  VERSE 2:
+    ^the journey seems the ^same
+    ^Though the burden seems so ^new
+    ^the sweat burns in my ^eyes
+    ^my screaming burns my ^throat
+    ^I weep, I know not for ^who
+
+  CHORUS 1
+
+  BRIDGE
+    ^Your destination sought^
+    Navigation a^chieved^
+    ^my burden falls away^
+    On the cross of Calva^ry^
+
+  CHORUS 2
+    I ^cry  tears of joy    And I praise  Your name
+    I ^cry  out for ^You    who a^lone can ^save
